@@ -11,5 +11,3 @@
 
   - Execute the `jupyter notebook` that will open a new browser tab with the Jupyter homepage.
   - Launch (click) the `Kaguya_Spectral_Profiler.ipynb` notebook.
-
-  
